@@ -1,7 +1,7 @@
-package com.cau2.service;
+package com.cau1.service;
 
-import com.cau2.entity.Product;
-import com.cau2.repository.ProductRepository;
+import com.cau1.entity.Product;
+import com.cau1.repository.ProductRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 

@@ -1,6 +1,6 @@
-package com.cau2.service;
+package com.cau1.service;
 
-import com.cau2.entity.Product;
+import com.cau1.entity.Product;
 
 import java.util.List;
 

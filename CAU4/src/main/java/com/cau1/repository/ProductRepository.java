@@ -1,6 +1,6 @@
-package com.cau2.repository;
+package com.cau1.repository;
 
-import com.cau2.entity.Product;
+import com.cau1.entity.Product;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 

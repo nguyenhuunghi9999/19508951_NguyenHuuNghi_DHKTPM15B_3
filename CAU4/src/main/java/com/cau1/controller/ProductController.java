@@ -1,7 +1,7 @@
-package com.cau2.controller;
+package com.cau1.controller;
 
-import com.cau2.entity.Product;
-import com.cau2.service.ProductService;
+import com.cau1.entity.Product;
+import com.cau1.service.ProductService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
 

@@ -1,4 +1,4 @@
-package com.cau2.entity;
+package com.cau1.entity;
 
 import javax.persistence.*;
 
