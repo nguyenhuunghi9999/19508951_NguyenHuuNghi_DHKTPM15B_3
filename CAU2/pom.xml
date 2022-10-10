@@ -8,11 +8,11 @@
         <version>2.7.4</version>
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
-    <groupId>com.cau1</groupId>
-    <artifactId>CAU1</artifactId>
+    <groupId>com.cau2</groupId>
+    <artifactId>CAU2</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>CAU1</name>
-    <description>CAU1</description>
+    <name>CAU2</name>
+    <description>CAU2</description>
     <properties>
         <java.version>17</java.version>
     </properties>
